@@ -130,3 +130,5 @@ VB-Audio ASIO Bridge
 RME ASIO Driver (MADIface / Fireface / etc.)
         ↓
 DAC (Bit-Perfect Output)
+
+https://vb-audio.com/images/VBAudioASIOBridge.jpg
