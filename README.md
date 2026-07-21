@@ -1,3 +1,9 @@
+Right now we have another alternative to get access Bit Perfect on tidal with a mod called LunaTidal 
+
+Working version and tested on mac M5 APPE SILLICON : https://github.com/Inrixia/TidaLuna-Installer
+
+ACCESS LINK Tidaluna for windows and linux : https://github.com/Brskt/TidaLuna
+
 # Windows-bitperfect-tidal-asio-bridge-rme
 🎧 Bit-Perfect Audio on Windows with TIDAL (ASIO + RME + VB-Audio Bridge)  
 
